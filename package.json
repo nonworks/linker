@@ -1,0 +1,24 @@
+{
+  "name": "nonworks-linker",
+  "version": "1.0.0",
+  "description": "Simple class for building links in the Nonworks ecosystem",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonworks/linker.git"
+  },
+  "author": "Mika Wikman",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/nonworks/linker/issues"
+  },
+  "homepage": "https://github.com/nonworks/linker#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {}
+}
