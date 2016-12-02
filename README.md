@@ -1,10 +1,10 @@
 # Usage
 
-```
+```bash
 npm install nonworks/linker
 ```
 
-```
+```javascript
 linker = require('linker');
 
 linker({
